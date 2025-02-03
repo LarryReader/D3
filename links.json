@@ -1,0 +1,8 @@
+[
+  { "source": "A", "target": "B" },
+  { "source": "A", "target": "D" },
+  { "source": "B", "target": "D" },
+  { "source": "C", "target": "D" },
+  { "source": "E", "target": "D" },
+  { "source": "C", "target": "E" }
+]
